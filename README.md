@@ -8,8 +8,8 @@ neste conjunto a máxima soma.
 Para este progama o usuário deve primeiro passar o tamanho da lista e depois os dados da lista para assim calcular a máxima soma, a estruta para a lista é a seguinte, onde cada posição guarda um int <strong>value</strong> e a lista não tem tamanho fixo que pode ser visto em <strong>Item *vet</strong>, e para setar o tamanho da lista o método de fazer a lista vazia é utilizado, imagem a direita da estrutura
 </p>
 <p align="center">
-<img src="estrutura.png">
-<img src="tamanho.png">
+<img src="imgs/estrutura.png">
+<img src="imgs/tamanho.png">
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ O método para achar a máxima soma, a imagem a seguir, segue a seguinte lógica
 </ol>
 </p>
 <p align="center">
-<img src="maxsoma.png">
+<img src="imgs/maxsoma.png">
 </p>
 
 # Compilação e Execução
