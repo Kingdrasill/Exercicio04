@@ -1,2 +1,3 @@
 # Exercicio04
-Achar máxima soma de um vetor
+Em uma lista A temos um conjunto de elementos inteiros positivos ou não h (a<sub>1</sub>, a<sub>2</sub>, . . . , a<sub>n</sub>). Elabore uma função que consiga encontrar
+neste conjunto a máxima soma.
