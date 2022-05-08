@@ -1,4 +1,10 @@
 # Exercicio04
+
+<div style="display: inline-block;">
+<img align="center" height="20px" width="60px" src="https://img.shields.io/badge/Language-C-blue"/> 
+<img align="center" height="20px" width="80px" src="https://img.shields.io/badge/Made%20in-VSCode-red"/> 
+</div>
+<br>
 Em uma lista A temos um conjunto de elementos inteiros positivos ou não [a<sub>1</sub>, a<sub>2</sub>, . . . , a<sub>n</sub>]. Elabore uma função que consiga encontrar
 neste conjunto a máxima soma.
 
