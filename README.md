@@ -22,7 +22,7 @@ Para este progama o usuário deve primeiro passar o tamanho da lista e depois os
 O método para achar a máxima soma, a imagem a seguir, segue a seguinte lógica:
 <ol>
   <li>Primeiro cria-se duas variáveis, uma auxilar <strong>soma</strong> que guarda a soma de uma sequência e uma <strong>max</strong> que guarda a maior soma e já começa com valor da primeira posição da lista</li>
-  <li>Depois com cada posição da lista é feita soma de todas as sequências possíveis desta com está posição e o valor da soma é salvo em soma</li>
+  <li>Depois com cada posição da lista é feita soma de todas as sequências possíveis com está posição e o valor da soma é salvo em soma</li>
   <li>Se em algum momento o valor em soma for maior que o de max, max recebe o valor de soma</li>
   <li>No final retorna-se o valor de max, que é a máxima soma da lista</li>
 </ol>
